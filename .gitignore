@@ -7,3 +7,4 @@ src/Makefile
 src/hello
 src/*.o
 stamp-h1
+src/.deps
